@@ -1,0 +1,40 @@
+body{
+    background-color: #B4E4FF;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+.background{
+    background-color: #B4E4FF;
+    height: 500px;
+    width: 1640px;
+    position: absolute;
+    left: 175px;
+    top: 100px;
+}
+.qr{
+    padding-top: 8px;
+    border-radius: 7%;
+    background-color: white;
+    width: 220px;
+    height: 350px;
+    position: absolute;
+    left: 400px;
+    top: 70px;
+}
+img{
+    border-radius: 5%;
+    height: 200px;
+    width: 200px;
+}
+h3{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: medium;
+    font-weight: 700;
+}
+p{
+    font-size: small;
+    color: grey;
+    padding-left: 10px;
+    padding-right: 10px;
+}
